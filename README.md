@@ -10,3 +10,8 @@ To install web.py, please run:
 ```
 python3 -m pip install web.py
 ```
+
+## Groupe de maintenance (EPSI - Maintenance applicative)
+
+- Antoine A., [truant4](https://github.com/truant4)
+- Jeremy R., [O841d](https://github.com/O841d)
